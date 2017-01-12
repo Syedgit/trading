@@ -1,4 +1,4 @@
-//create specific folder name like (diagram or user) then add following.
+//create specific folder name under server dir like (diagram or user) then add following.
 //CONTROLLER.JS
 
 /**
